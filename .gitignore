@@ -3,3 +3,8 @@ pyvenv.cfg
 /docx-template/
 /Lib/
 /Scripts/
+.gitignore
+.idea
+/build/
+/dist/
+text2anki.spec
