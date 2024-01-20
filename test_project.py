@@ -1,7 +1,7 @@
-from project import readout_csv
-from project import add_tag_propagation
-from project import readout_docx
-from project import readout_txt
+from text2anki import readout_csv
+from text2anki import add_tag_propagation
+from text2anki import readout_docx
+from text2anki import readout_txt
 
 
 test_csv1 = [{'Front':'Spass haben und Spass machen sind nicht das Gleiche',
