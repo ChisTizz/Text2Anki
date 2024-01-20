@@ -1,0 +1,4 @@
+first card input phrase # tag1 tag2
+second card input phrase # tag1 tag2
+third card input phrase
+
